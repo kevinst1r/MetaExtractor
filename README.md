@@ -21,8 +21,8 @@ To use Meta Extractor, follow these steps:
 ## Features
 - Dark Theme
 - Save to .txt
-- Save to Clipboard
-- Save individual fields
+- Copy to Clipboard
+- Copy individual fields
 - Bulk Upload
 
 UI Assets Generated with the <a href="https://chat.openai.com/g/g-H0UwwgFOe-ui-asset-generator">UI Asset Generator</a> Custom GPT.
